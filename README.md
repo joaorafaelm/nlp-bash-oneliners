@@ -1,4 +1,4 @@
-NLP bash oneliners for markov chain, uni/bi/tri-gram frequency and more.
+NLP bash oneliners for markov chain, uni/bi/tri-gram frequency etc.
 
 ##### Markov chain
 ###### Trigram as default; use `cut -d ' ' -f 2` for unigram and `cut -d ' ' -f 2,3` for bigram.
